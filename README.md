@@ -4,3 +4,5 @@
 
 1. Using **Nikon CFI75 LWD 16X W** objective in the detection axis
 2. Adding a **Sutter Lambda 10** filter wheel across the infinity tube to allow multicolor imaging
+
+These modifications were developed in collaboration with Pieter Fourie [https://www.pfde.co.uk/](https://www.pfde.co.uk/)
